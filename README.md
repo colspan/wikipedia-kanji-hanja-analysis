@@ -45,8 +45,5 @@ cd data_generator
 ./wikipedia-jpkr-analysis.py
 ```
 
-
-### Wikipedia
-
 ## その他
 [d3.jsによる可視化](http://colspan.github.io/kanji-hanja/)も別途実装した。
